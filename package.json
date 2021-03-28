@@ -1,0 +1,20 @@
+{
+  "name": "decimal-to-base",
+  "version": "1.0.2",
+  "description": "Converts any decimal number (base 10) to any base of choice.",
+  "main": "index.js",
+  "keywords": ["decimal", "hex", "binary", "base", "converter", "convert"],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/exoticchild/decimal-to-base.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/exoticchild/decimal-to-base/issues"
+  },
+  "homepage": "https://github.com/exoticchild/decimal-to-base#readme"
+}
